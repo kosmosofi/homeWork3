@@ -118,7 +118,7 @@ public class Main {
         double gapSalaryKris = boostAnnualSalaryKris - lastAnnualSalaryKris;
         System.out.println("Кристина теперь получает " + boostSalaryKris + " рублей." + " Годовой доход вырос на " + gapSalaryKris + " рублей");
 
-        System.out.println("Задание выполнено! благодарю за проверку! ");
+        System.out.println("Задание выполнено! благодарю за проверку!");
 
 
 
